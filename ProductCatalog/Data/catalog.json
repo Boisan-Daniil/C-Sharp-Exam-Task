@@ -1,0 +1,28 @@
+{
+  "Products": [
+    {
+      "Count": 140,
+      "Name": "CheeseBurger",
+      "Price": 30,
+      "Producer": "Macdonalds"
+    },
+    {
+      "Count": 100,
+      "Name": "Орешки",
+      "Price": 20,
+      "Producer": "Свиточ"
+    },
+    {
+      "Count": 120,
+      "Name": "Конфеты",
+      "Price": 12,
+      "Producer": "Свиточ"
+    },
+    {
+      "Count": 1,
+      "Name": "Огурк?",
+      "Price": 100,
+      "Producer": "Олянд?я"
+    }
+  ]
+}
